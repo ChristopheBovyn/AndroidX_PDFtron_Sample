@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{BE1CB336-3741-4851-B0DE-B161D9FFB3F0}|Default">
+  <MonoDevelop.Ide.ItemProperties.PDFTronAndroidX.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../.nuget/packages/xamarin.androidx.migration/1.0.6.1/readme.txt">
+    <Files>
+      <File FileName="../../../../.nuget/packages/xam.plugin.media/3.1.3/readme.txt" Line="1" Column="1" />
+      <File FileName="../../../../.nuget/packages/xam.plugin.geolocator/4.2.0/readme.txt" />
+      <File FileName="../../../../.nuget/packages/xamarin.androidx.migration/1.0.6.1/readme.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PDFTronAndroidX" expanded="True">
+            <Node name="PDFTronAndroidX.Android" expanded="True">
+              <Node name="Packages" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PDFTronAndroidX.Android PreferredExecutionTarget="Android.HYF0219430010892" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
